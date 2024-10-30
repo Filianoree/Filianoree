@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer</h3>
 
 
-- 🌱 I’m currently learning **Angular, Python**
+- 🌱 I’m currently learning **Angular, Vue, Typescript**
 
 - 💬 Ask me about **Javascript, React.**
 
